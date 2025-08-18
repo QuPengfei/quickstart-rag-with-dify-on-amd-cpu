@@ -47,7 +47,7 @@ RAG通过动态结合外部知识，显著提升了AI的可信度与实用性，
 |AliyunComputeNestUserFullAccess|管理计算巢服务（ComputeNest）的用户侧权限|
 
 ## 部署流程
-1. 单击部署链接。根据界面提示实例选择并填写参数，可以看到对应询价明细，确认参数后点击下一步：确认订单。
+1. 单击[部署链接](https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?spm=5176.24779694.0.0.72447f8bGWALBD&type=user&ServiceId=service-cd22d5e1a93f48f5bfe6)。根据界面提示实例选择并填写参数，可以看到对应询价明细，确认参数后点击下一步：确认订单。
 ![](attachment/config-01.jpg)
 2. 创建VPC,填写用户名/密码，选择系统盘，确认订单完成后同意服务协议并点击立即创建。
 ![](attachment/config-02.jpg)
